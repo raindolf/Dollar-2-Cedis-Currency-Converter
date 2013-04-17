@@ -53,7 +53,7 @@ System.out.println( "   " );
 else 
 {
 System.out.println ("Be Serious and read the instruction above!!"); 
-// A couple of users love to have fun so i've put this in place for them to read instructions..Cheers
+// A couple of users love to have try some fun stuff so i've put this in place for them to read instructions..Cheers
 }
 
 } while ( option > 0 );
