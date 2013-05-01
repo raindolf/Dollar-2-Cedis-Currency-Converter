@@ -27,7 +27,7 @@ int option;
 double cedis = 1.94;
 
 
-do{ // This loop allows the program to repeat it self till a user inputs zero to exist the loop
+do{ // This loop allows the program to repeat the same task untill a user inputs zero to exist the loop
 
 System.out.println( "This is a program that converts Cedis to USD Dollar and likewise :)");
 System.out.print( "Enter one to convert from Cedis to Dollars or enter two to convert from \ndollar to cedis: ");
